@@ -54,6 +54,8 @@ URNA_TSEANALYSIS/
 
 ## 🧠 Melhorias Sugestivas ...
 
+### - alterar bd para hierarquias não numéricas
+
 ### 🔁 Processamento em Tempo Real
 - [ ] WebSockets para atualização em tempo real dos votos/candidatos
 - [ ] Pub/Sub com Redis para comunicação entre serviços (backend, auditor, painel admin)
