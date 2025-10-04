@@ -6,6 +6,9 @@ Utiliza criptografia de votos e validação de CPF com regras de integridade par
 > **Chave de criptografia**: CPF + VOTO  
 > **Validação reduzida (0.8)** para CPFs de ex-detentos, visando simulação de manipulações sob cárcere e anonimização.
 
+> <img width="628" height="144" alt="image" src="https://github.com/user-attachments/assets/dd872e1d-a24c-46c8-a491-727dfd7c19b3" />
+
+
 ---
 
 <img width="366" src="https://github.com/user-attachments/assets/4988fd8a-ed69-4648-b2b8-d7512eb56b82" alt="urna logo" />
