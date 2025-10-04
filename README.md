@@ -33,12 +33,13 @@ Utiliza criptografia de votos e validação de CPF com regras de integridade par
 
 ```
 URNA_TSEANALYSIS/
-├── backend/ # Next.js API (porta 3000)
+├── server/ # Next.js API (porta 3000)
 │ ├── pages/api/ # Rotas: candidatos, cargos
 │ ├── components/ # Dashboard no backend (opcional)
 │ ├── lib/db.js # Conexão com PostgreSQL
 │ └── .env.local # DATABASE_URL
 │
+└── client/
 └── client/ # Frontend React + Vite (porta 3001)
 ├── src/components/ # Dashboard e outros
 ├── vite.config.js # Proxy para backend
