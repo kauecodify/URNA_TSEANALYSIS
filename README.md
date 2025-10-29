@@ -15,6 +15,8 @@ Ponto facultativo: Sistema de análise e cadastro de candidatos baseado em dados
 
 <img width="1318" height="667" alt="image" src="https://github.com/user-attachments/assets/02b72848-95e2-47ff-b8db-67f3a180c248" />
 
+<img width="1276" height="633" alt="image" src="https://github.com/user-attachments/assets/8a707f6b-377a-4c12-bc51-69e43b8a32ad" />
+
 ---
 
 ## Tecnologias Utilizadas
