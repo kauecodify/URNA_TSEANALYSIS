@@ -33,12 +33,6 @@ Ponto facultativo: Sistema de análise e cadastro de candidatos baseado em dados
 
 ---
 
-## Estrutura do Projeto
-
-![Untitled (1)](https://github.com/user-attachments/assets/3111f36f-de8a-4f01-8f7b-2700c66b9e86)
-
----
-
 📃 Licença
 
 MIT by k ©
